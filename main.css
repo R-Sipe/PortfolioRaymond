@@ -40,7 +40,8 @@ html,body{
 }
 #cardspace{
     margin-bottom: 2rem;
-    margin-right: 4rem;
+    padding-right: 2.5rem;
+    padding-left: 2.5rem;
 }
 .card-text{
     color: rgb(196, 187, 187)
@@ -49,4 +50,11 @@ html,body{
 .card-title{
     color: rgb(196, 187, 187)
 
+}
+
+.drop{
+    margin-top: 10px;
+}
+.drop2{
+    margin-top: 15px;
 }
