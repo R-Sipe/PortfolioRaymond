@@ -16,7 +16,7 @@ html,body{
 
 .hh{
     font-size: 25pt;
-    color: rgb(37, 35, 35);
+    color: rgb(97, 91, 91)
 
 }
 
@@ -57,4 +57,8 @@ html,body{
 }
 .drop2{
     margin-top: 15px;
+}
+
+.backGround{
+    background-image: url("/img/yo.jpg");
 }
