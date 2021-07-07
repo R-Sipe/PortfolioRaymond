@@ -1,0 +1,29 @@
+.mt-5{
+    font-weight: 600;
+    font-size: 55pt;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+  
+
+}
+
+html,body{
+    overflow-x: hidden;
+}
+
+
+.hh{
+    font-size: 25pt;
+}
+
+.home{
+    margin-top: 12rem
+}
+
+.img-fluid{
+    margin-right: 0rem;
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+    display: inline-flexbox;
+}
