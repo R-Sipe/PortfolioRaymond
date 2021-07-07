@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     margin-bottom: 1rem;
+    color: rgb(175, 132, 24);
   
 
 }
@@ -15,10 +16,12 @@ html,body{
 
 .hh{
     font-size: 25pt;
+    color: rgb(37, 35, 35);
+
 }
 
 .home{
-    margin-top: 12rem
+    margin-top: 20rem
 }
 
 .img-fluid{
@@ -26,4 +29,24 @@ html,body{
     margin-left: 1.5rem;
     margin-top: 1rem;
     display: inline-flexbox;
+    margin-bottom: 20rem;
+}
+
+.display-2{
+    margin-bottom: 3rem;
+    font-weight: 500;
+    color: rgb(175, 132, 24);
+
+}
+#cardspace{
+    margin-bottom: 2rem;
+    margin-right: 4rem;
+}
+.card-text{
+    color: rgb(196, 187, 187)
+
+}
+.card-title{
+    color: rgb(196, 187, 187)
+
 }
