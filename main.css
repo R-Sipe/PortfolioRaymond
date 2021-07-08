@@ -39,7 +39,7 @@ html,body{
 
 }
 #cardspace{
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     padding-right: 2.5rem;
     padding-left: 2.5rem;
 }
@@ -61,4 +61,12 @@ html,body{
 
 .backGround{
     background-image: url("/img/yo.jpg");
+}
+
+*{
+    display: border-box;
+}
+
+.contact{
+    margin-bottom: 1.5rem !important;
 }
