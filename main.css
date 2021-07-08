@@ -60,7 +60,7 @@ html,body{
 }
 
 .backGround{
-    background-image: url("/img/yo.jpg");
+    background-image: url("img/yo.jpg");
 }
 
 *{
