@@ -70,3 +70,10 @@ html,body{
 .contact{
     margin-bottom: 1.5rem !important;
 }
+
+.btn-dark{
+    margin-top: .5rem;
+}
+.resume{
+    margin-top: .5rem;
+}
